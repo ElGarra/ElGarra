@@ -2,6 +2,8 @@
 <h1 align="center">Hi there! I'm Joaquín 👋</h1>
 
 <h4 align="center">Double Degree Student @ <a href="https://www.centrale-marseille.fr/">École Centrale de Marseille 🇫🇷</a> | BSc in Engineering @ <a href="https://www.ing.uc.cl/">Pontificia Universidad Católica de Chile 🇨🇱</a></h4>
+
+<h3>About me</h3>
 <!--
 **ElGarra/ElGarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
