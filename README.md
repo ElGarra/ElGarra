@@ -8,7 +8,6 @@
 [![Linkedin: joaquincastanos](https://img.shields.io/badge/-joaquincastanos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/joaquincastanos/](https://www.linkedin.com/in/joaquincastanos/))](https://www.linkedin.com/in/joaquincastanos/)
 [![GitHub ElGarra](https://img.shields.io/github/followers/ElGarra?style=social)](https://github.com/ElGarra)
 
-
 <h3>About me</h3>
 
 Welcome to my profile! I'm Joaquín Castaños, I'm 24 years old and I perceive myself as a very proactive, motivated, analytical, social person with a constant desire to learn and improve myself constantly.
