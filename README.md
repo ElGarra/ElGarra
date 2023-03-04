@@ -17,7 +17,7 @@ Throughout my university career, I've participated in different spaces where I w
 
 I'm passionate about data science and information technologies, and in the future I would like to focus my career on digital transformation, to bridge social gaps and contribute to the development of my region (Latin America), and why not, the whole world.
 
-<h3>💻 technology stack</h3>
+<h3>💻 Technology stack</h3>
 
 ```javascript
 const me = {
