@@ -5,13 +5,13 @@
 
 <div align="center">
   <a href="">
-    ![Twitter: juacocastanos](https://img.shields.io/twitter/follow/juacocastanos?style=social)(https://twitter.com/juacocastanos)
+    ![https://img.shields.io/twitter/follow/juacocastanos?style=social](https://twitter.com/juacocastanos)
   </a>
   <a href="">
-    ![Linkedin: joaquincastanos](https://img.shields.io/badge/-joaquincastanos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/joaquincastanos/(https://www.linkedin.com/in/joaquincastanos/))](https://www.linkedin.com/in/joaquincastanos/)
+    ![https://img.shields.io/badge/-joaquincastanos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/joaquincastanos/(https://www.linkedin.com/in/joaquincastanos/)](https://www.linkedin.com/in/joaquincastanos/)
   </a>
   <a href="">
-    ![GitHub ElGarra](https://img.shields.io/github/followers/ElGarra?style=social)(https://github.com/ElGarra)
+    ![https://img.shields.io/github/followers/ElGarra?style=social](https://github.com/ElGarra)
   </a>
 </div>
 
