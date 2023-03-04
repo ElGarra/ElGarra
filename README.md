@@ -3,21 +3,9 @@
 
 <h4 align="center">Double Degree Student @ <a href="https://www.centrale-marseille.fr/">École Centrale de Marseille 🇫🇷</a> | BSc in Engineering @ <a href="https://www.ing.uc.cl/">Pontificia Universidad Católica de Chile 🇨🇱</a></h4>
 
-<!--
 [![Twitter: juacocastanos](https://img.shields.io/twitter/follow/juacocastanos?style=social)](https://twitter.com/juacocastanos)
 [![Linkedin: joaquincastanos](https://img.shields.io/badge/-joaquincastanos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/joaquincastanos/](https://www.linkedin.com/in/joaquincastanos/))](https://www.linkedin.com/in/joaquincastanos/)
 [![GitHub ElGarra](https://img.shields.io/github/followers/ElGarra?style=social)](https://github.com/ElGarra)
--->
-
-<a href="https://www.linkedin.com/in/joaquincastanos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="Joaquín Castaños"></a>
-<a href="https://www.instagram.com/juacocastanos" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="juacocastanos"></a>
-<a href="https://twitter.com/juacocastanos" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="juacocastanos"></a>
-<a href="https://github.com/ElGarra" target="_blank"><img src="[https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white](https://img.shields.io/github/followers/ElGarra?style=social)" alt="ElGarra"></a>
-<!--
-<a href="https://www.facebook.com/juacocastanos" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="link of user" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
-<a href="link to personal page" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
--->
 
 
 
