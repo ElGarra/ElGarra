@@ -3,17 +3,10 @@
 
 <h4 align="center">Double Degree Student @ <a href="https://www.centrale-marseille.fr/">École Centrale de Marseille 🇫🇷</a> | BSc in Engineering @ <a href="https://www.ing.uc.cl/">Pontificia Universidad Católica de Chile 🇨🇱</a></h4>
 
-<div align="center">
-  <a href="">
-    ![https://img.shields.io/twitter/follow/juacocastanos?style=social](https://twitter.com/juacocastanos)
-  </a>
-  <a href="">
-    ![https://img.shields.io/badge/-joaquincastanos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/joaquincastanos/(https://www.linkedin.com/in/joaquincastanos/)](https://www.linkedin.com/in/joaquincastanos/)
-  </a>
-  <a href="">
-    ![https://img.shields.io/github/followers/ElGarra?style=social](https://github.com/ElGarra)
-  </a>
-</div>
+
+[![Twitter: juacocastanos](https://img.shields.io/twitter/follow/juacocastanos?style=social)](https://twitter.com/juacocastanos)
+[![Linkedin: joaquincastanos](https://img.shields.io/badge/-joaquincastanos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/joaquincastanos/](https://www.linkedin.com/in/joaquincastanos/))](https://www.linkedin.com/in/joaquincastanos/)
+[![GitHub ElGarra](https://img.shields.io/github/followers/ElGarra?style=social)](https://github.com/ElGarra)
 
 
 <h3>About me</h3>
