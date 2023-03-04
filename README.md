@@ -3,17 +3,19 @@
 
 <h4 align="center">Double Degree Student @ <a href="https://www.centrale-marseille.fr/">École Centrale de Marseille 🇫🇷</a> | BSc in Engineering @ <a href="https://www.ing.uc.cl/">Pontificia Universidad Católica de Chile 🇨🇱</a></h4>
 
-<center>
-  <image>
+<div align="center">
+  <a href="">
     [![Twitter: juacocastanos](https://img.shields.io/twitter/follow/juacocastanos?style=social)](https://twitter.com/juacocastanos)
-  </image>
-   <image>
-[![Linkedin: joaquincastanos](https://img.shields.io/badge/-joaquincastanos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/joaquincastanos/](https://www.linkedin.com/in/joaquincastanos/))](https://www.linkedin.com/in/joaquincastanos/)
-  </image>
-  <image>
-[![GitHub ElGarra](https://img.shields.io/github/followers/ElGarra?style=social)](https://github.com/ElGarra)
-  </image>
-</center>
+  </a>
+  <a href="">
+    [![Linkedin: joaquincastanos](https://img.shields.io/badge/-joaquincastanos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/joaquincastanos/](https://www.linkedin.com/in/joaquincastanos/))](https://www.linkedin.com/in/joaquincastanos/)
+  </a>
+  <a href="">
+    [![GitHub ElGarra](https://img.shields.io/github/followers/ElGarra?style=social)](https://github.com/ElGarra)
+  </a>
+</div>
+
+
 <h3>About me</h3>
 
 Welcome to my profile! I'm Joaquín Castaños, I'm 24 years old and I perceive myself as a very proactive, motivated, analytical, social person with a constant desire to learn and improve myself constantly.
