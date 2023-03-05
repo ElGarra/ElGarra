@@ -21,10 +21,10 @@ I'm passionate about data science and information technologies, and in the futur
 
 ```javascript
 const me = {
-  code: [Python, Javascript, C, C++, PHP, HTML, CSS, Ruby, VBA, Assembly, LATeX, MarkDown, R],
-  Databases:[SQL, MongoDB, GraphQL]
-  Frameworks: [FastAPI, Flask, Django, Node, Express, Ruby on Rails],
-  Office tools: [Metabase, PowerBI, Git, Excel, Office365]
+  "code": ["Python", "Javascript", "C", "C++", "PHP", "HTML", "CSS", "Ruby", "VBA", "Assembly", "LATeX", "MarkDown", "R"],
+  "Databases":["SQL", "MongoDB", "GraphQL"]
+  "Frameworks": ["FastAPI", "Flask", "Django", "Node", "Express", "Ruby on Rails",  "Postman", "ThunderClient"],
+  "Office tools": ["Metabase", "PowerBI", "Git", "Advanced Excel", "Office 365"] 
 }
 ```
 
